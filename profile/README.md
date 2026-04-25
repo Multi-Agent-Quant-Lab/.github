@@ -2,7 +2,7 @@
 
 <img src="../img/maq-profile.png" alt="Multi-Agent Quant Lab" width="200" />
 
-# Multi-Agent Quant Lab
+# Multi-Agent Quant Research & Trading Lab
 
 **AI 에이전트로 굴러가는 알고리즘 트레이딩 시스템을 만든다**
 
